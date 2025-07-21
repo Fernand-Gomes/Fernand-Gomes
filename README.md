@@ -1,5 +1,10 @@
-## Eae, eu sou Fernando da Silva Gomes, estudante de programação!
-
+## Hey, I'm Fernando da Silva Gomes
+### Brazilian Developer and Web Designer
+##
+  
+- ♟ - Studying Computer Science at CEFET.
+- 💻 - IT Technician - FAETEC
+- 🔭 - Studying NoCode and FrontEnd
 
 <div>  
   <a href = "https://github.com/Fernand-Gomes"></a>
