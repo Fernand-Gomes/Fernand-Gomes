@@ -8,6 +8,8 @@
 - ♟ - Looking for opportunities in Game Development area.
 - 📜 - "Learning is perseverance"
 
+##
+
 <div>  
   <a href = "https://github.com/Fernand-Gomes"></a>
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=Fernand-Gomes&show_icons=true&theme=synthwave">
