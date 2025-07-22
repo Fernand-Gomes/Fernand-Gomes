@@ -2,9 +2,11 @@
 ### Brazilian Developer and Web Designer
 ##
   
-- ♟ - Studying Computer Science at CEFET.
+- 📖 - Studying Computer Science at CEFET.
 - 💻 - IT Technician - FAETEC
 - 🔭 - Studying NoCode and FrontEnd
+- ♟ - Looking for opportunities in Game Development area.
+- 📜 - "Learning is perseverance"
 
 <div>  
   <a href = "https://github.com/Fernand-Gomes"></a>
